@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{FAF1464B-C494-472E-B83D-7649C77D5A5D}|Default">
+  <MonoDevelop.Ide.ItemProperties.PdmProject.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PdmProject/MainPage.xaml">
+    <Files>
+      <File FileName="PdmProject/LoginPage.xaml" Line="21" Column="22" />
+      <File FileName="PdmProject/LoginPage.xaml.cs" />
+      <File FileName="PdmProject/MainPage.xaml.cs" />
+      <File FileName="PdmProject/MainPage.xaml" Line="13" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PdmProject" expanded="True">
+            <Node name="PdmProject" expanded="True">
+              <Node name="LoginPage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PdmProject.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
